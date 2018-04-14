@@ -1,0 +1,50 @@
+<application>
+  <component name="VSTSSettings">
+    <option name="serverContexts">
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://adamhudsonnall.visualstudio.com/DarkTower/_git/DarkTower.Infrastructure.ServiceStack" />
+          <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9e0f7b3c-747d-4c10-a402-a41620032099&quot;,&quot;name&quot;:&quot;DarkTower.Infrastructure.ServiceStack&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/DarkTower/_git/DarkTower.Infrastructure.ServiceStack&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/9e0f7b3c-747d-4c10-a402-a41620032099&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://adamhudsonnall.visualstudio.com/_git/Venture%20Pay1Stop" />
+          <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;ff0951e9-af5e-472a-9eec-9bf7b1860096&quot;,&quot;name&quot;:&quot;Venture Pay1Stop&quot;,&quot;revision&quot;:377951624,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/ff0951e9-af5e-472a-9eec-9bf7b1860096&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;28f6de00-d219-4d43-ab33-8c6d539126de&quot;,&quot;name&quot;:&quot;Venture Pay1Stop&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/_git/Venture%20Pay1Stop&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/28f6de00-d219-4d43-ab33-8c6d539126de&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;ff0951e9-af5e-472a-9eec-9bf7b1860096&quot;,&quot;name&quot;:&quot;Venture Pay1Stop&quot;,&quot;revision&quot;:377951624,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/ff0951e9-af5e-472a-9eec-9bf7b1860096&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+      </array>
+    </option>
+    <option name="properties">
+      <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="repoRoot" />
+          <option name="value" value="$USER_HOME$/Documents/vmBox Share/source/tfs-ws" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//adamhudsonnall.visualstudio.com/darktower/_git/darktower.infrastructure.servicestack" />
+        </PropertyState>
+      </array>
+    </option>
+  </component>
+</application>
