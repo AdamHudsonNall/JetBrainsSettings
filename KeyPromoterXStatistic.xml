@@ -17,6 +17,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete...">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦'</ShortCut>
+          <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties...">
+        <Item>
+          <IdeaActionID>EditPropertiesAction</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Properties...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Default'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -54,6 +70,14 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Reference 'Microsoft.Extension...">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'⌃Z' or '⌥⌫'</ShortCut>
+          <Description>Undo Reference 'Microsoft.Extension...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
