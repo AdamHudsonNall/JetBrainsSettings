@@ -30,7 +30,23 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>4</Count>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'DarkTower.Common.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'DarkTower.Common.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go To Implementation">
+        <Item>
+          <IdeaActionID>ReSharperGotoImplementation</IdeaActionID>
+          <ShortCut>'⌘F12' or '⌃⌥Button1 Click'</ShortCut>
+          <Description>Go To Implementation</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -38,7 +54,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
