@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DarkTower.Common.csproj'">
@@ -190,7 +190,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'⌘R, R' or '⌘R, ⌘R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>6</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -302,6 +302,14 @@
           <IdeaActionID>$Undo</IdeaActionID>
           <ShortCut>'⌃Z' or '⌥⌫'</ShortCut>
           <Description>Undo Reference 'Microsoft.Extension...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo refactoring modification">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'⌘Z'</ShortCut>
+          <Description>Undo refactoring modification</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
