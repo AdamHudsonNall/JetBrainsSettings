@@ -150,7 +150,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'⌘7' or '⇧⌘7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'pay1stop'</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -262,7 +262,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'pay1stop'</Description>
-          <Count>28</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
