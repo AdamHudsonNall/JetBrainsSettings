@@ -9,6 +9,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Build">
+        <Item>
+          <IdeaActionID>ActivateBuildToolWindow</IdeaActionID>
+          <ShortCut>'⌘0'</ShortCut>
+          <Description>Build</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Comment with Line Comment">
         <Item>
           <IdeaActionID>CommentByLineComment</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DarkTower.Common.csproj'">
