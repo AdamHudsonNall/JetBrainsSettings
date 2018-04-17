@@ -22,7 +22,7 @@
           <IdeaActionID>CommentByLineComment</IdeaActionID>
           <ShortCut>'⌥⌘/' or '⌥⌘NumPad /' or '⌘K, C' or '⌘K, ⌘C'</ShortCut>
           <Description>Comment with Line Comment</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -70,7 +70,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DarkTower.Common.csproj'">
@@ -174,7 +174,7 @@
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
           <ShortCut>'⇧⌘R'</ShortCut>
           <Description>Refactor This...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh Stack Frame">
@@ -190,7 +190,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'⌘R, R' or '⌘R, ⌘R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -230,7 +230,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'⇧⌘S'</ShortCut>
           <Description>Save All</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
