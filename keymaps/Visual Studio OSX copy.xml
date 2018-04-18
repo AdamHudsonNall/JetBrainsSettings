@@ -4,6 +4,13 @@
     <keyboard-shortcut first-keystroke="meta f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="meta k" second-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Diff.ShowDiff" />
@@ -17,8 +24,14 @@
     <mouse-shortcut keystroke="meta button1" />
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="RiderUnitTestDebugContextTwAction" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
+  <action id="UML.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
