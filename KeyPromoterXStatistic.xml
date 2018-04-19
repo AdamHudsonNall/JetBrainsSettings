@@ -254,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌥F5'</ShortCut>
           <Description>Run 'pay1stop'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Save All">
@@ -294,7 +294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'pay1stop'</Description>
-          <Count>42</Count>
+          <Count>43</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
