@@ -57,6 +57,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Android Default'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Debug 'Android Default'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Default'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'F5'</ShortCut>
+          <Description>Debug 'Default'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'pay1stop'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -78,7 +94,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>40</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'ASPNETCore2J…WebApp.csproj'">
@@ -110,6 +126,14 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'DarkTower.Web.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'HR.Web.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'HR.Web.csproj'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -206,7 +230,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties...</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -334,7 +358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -342,7 +366,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reference 'Microsoft.AspNetCor...">
