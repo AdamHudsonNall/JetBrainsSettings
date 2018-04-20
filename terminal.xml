@@ -1,0 +1,5 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="/Applications/Hyper.app/Contents/MacOS/Hyper" />
+  </component>
+</application>
