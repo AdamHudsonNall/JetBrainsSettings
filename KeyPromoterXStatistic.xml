@@ -30,7 +30,7 @@
           <IdeaActionID>CommentByLineComment</IdeaActionID>
           <ShortCut>'⌥⌘/' or '⌥⌘NumPad /' or '⌘K, C' or '⌘K, ⌘C'</ShortCut>
           <Description>Comment with Line Comment</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -382,7 +382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reference 'Microsoft.AspNetCor...">
