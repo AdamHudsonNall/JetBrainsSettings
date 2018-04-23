@@ -1,0 +1,9 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="darktower@adamhudsonnall.com">
+      <option name="address" value="darktower.azurecr.io" />
+      <option name="name" value="DarkTower Registry" />
+      <option name="username" value="darktower" />
+    </DockerRegistry>
+  </component>
+</application>
