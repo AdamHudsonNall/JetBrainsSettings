@@ -150,7 +150,7 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'DarkTower.Se…curity.csproj'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DarkTower.Web.csproj'">
