@@ -126,7 +126,7 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'DarkTower.Common.csproj'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DarkTower.Core.csproj'">
@@ -190,7 +190,7 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'pay1stop.csproj'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'pay1stop.data.csproj'">
@@ -207,6 +207,14 @@
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'pay1stop.domain.csproj'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'pay1stop.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'pay1stop.sln'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Errors In Solution">
