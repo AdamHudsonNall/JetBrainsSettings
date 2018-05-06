@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Build Solution">
@@ -145,6 +145,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'DarkTower.De…ugging.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'DarkTower.De…ugging.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'DarkTower.Domain.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
@@ -198,7 +206,7 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Edit 'pay1stop.csproj'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'pay1stop.data.csproj'">
@@ -454,7 +462,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌃F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Undo Reference 'AngleSharp' and use...">
