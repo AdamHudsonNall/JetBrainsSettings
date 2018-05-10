@@ -16,8 +16,8 @@
           <option name="uri" value="https://adamhudsonnall.visualstudio.com" />
           <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
           <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -27,6 +27,23 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;39fdb19d-134d-4f0b-a47d-945654ea495b&quot;,&quot;name&quot;:&quot;Darktower.DDD&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/DarkTower/_git/Darktower.DDD&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/39fdb19d-134d-4f0b-a47d-945654ea495b&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://adamhudsonnall.visualstudio.com/DarkTower/_git/Cofoundry" />
+          <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;e03f38ee-d7ae-44c5-9898-f11b9ca93873&quot;,&quot;name&quot;:&quot;Cofoundry&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/DarkTower/_git/Cofoundry&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/e03f38ee-d7ae-44c5-9898-f11b9ca93873&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951629,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -51,7 +68,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//adamhudsonnall.visualstudio.com/darktower/_git/darktower.ddd" />
+          <option name="value" value="//adamhudsonnall.visualstudio.com/darktower/_git/cofoundry" />
         </PropertyState>
       </array>
     </option>
