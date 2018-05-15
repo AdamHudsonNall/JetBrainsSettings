@@ -3,7 +3,7 @@
     <option name="customScope" value="Selected Files And Folders" />
     <option name="defaultScopeName" value="Selected Files And Folders" />
     <option name="SEARCH_SCOPE" value="Selected Files And Folders" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="FILE_MASK" value="" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +17,10 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.c</mask>
       <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
