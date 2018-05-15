@@ -350,7 +350,7 @@
           <IdeaActionID>RefreshStackFrame</IdeaActionID>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Refresh Stack Frame</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
