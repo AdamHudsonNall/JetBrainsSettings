@@ -110,7 +110,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'ASPNETCore2J…WebApp.csproj'">
@@ -358,7 +358,7 @@
           <IdeaActionID>RefreshStackFrame</IdeaActionID>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Refresh Stack Frame</Description>
-          <Count>19</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
