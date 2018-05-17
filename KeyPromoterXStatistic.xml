@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>93</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'pay1stop'">
@@ -358,7 +358,7 @@
           <IdeaActionID>RefreshStackFrame</IdeaActionID>
           <ShortCut>'Button1 Double-Click'</ShortCut>
           <Description>Refresh Stack Frame</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Watch">
@@ -406,7 +406,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>46</Count>
+          <Count>47</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pay1stop'">
@@ -430,7 +430,7 @@
           <IdeaActionID>ShowExecutionPoint</IdeaActionID>
           <ShortCut>'⌥⌨ *' or '⌘L'</ShortCut>
           <Description>Show Execution Point</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
