@@ -446,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pay1stop'">
