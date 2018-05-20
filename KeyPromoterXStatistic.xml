@@ -217,6 +217,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'docker-compose.dcproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'docker-compose.dcproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'pay1stop.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
@@ -454,7 +462,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⇧⌘O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
