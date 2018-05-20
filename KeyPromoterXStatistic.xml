@@ -78,7 +78,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Debug 'Default'</Description>
-          <Count>125</Count>
+          <Count>126</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'pay1stop'">
@@ -201,6 +201,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'ServiceStack…ityServer.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'ServiceStack…ityServer.sln'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'pay1stop.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
@@ -238,7 +246,7 @@
           <IdeaActionID>ActivateErrorsInSolutionToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘2'</ShortCut>
           <Description>Errors In Solution</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -310,7 +318,7 @@
           <IdeaActionID>ReSharperGotoNextErrorInSolution</IdeaActionID>
           <ShortCut>'⌥⇧⇟'</ShortCut>
           <Description>Next Error</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -334,7 +342,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties...</Description>
-          <Count>36</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
@@ -398,7 +406,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -406,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>48</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pay1stop'">
@@ -494,7 +502,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>26</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
