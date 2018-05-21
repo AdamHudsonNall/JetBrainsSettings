@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'⌘7' or '⇧⌘7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -494,7 +494,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>83</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pay1stop'">
@@ -510,7 +510,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'⇧⌘S'</ShortCut>
           <Description>Save All</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
@@ -558,7 +558,7 @@
           <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
           <ShortCut>'⌥7'</ShortCut>
           <Description>Structure</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -566,7 +566,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
