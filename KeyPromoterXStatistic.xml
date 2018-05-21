@@ -62,7 +62,15 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘3'</ShortCut>
           <Description>Database</Description>
-          <Count>8</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database Tools...">
+        <Item>
+          <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Database Tools...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -119,6 +127,14 @@
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
           <Count>61</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Disconnect">
+        <Item>
+          <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Disconnect</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'ASPNETCore2J…WebApp.csproj'">
@@ -281,6 +297,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Execute">
+        <Item>
+          <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
+          <ShortCut>'⌘⏎'</ShortCut>
+          <Description>Execute</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
@@ -337,6 +361,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Console...">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
+          <ShortCut>'⇧⌘F10'</ShortCut>
+          <Description>Jump to Console...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Navigate To…">
         <Item>
           <IdeaActionID>ReSharperNavigateTo</IdeaActionID>
@@ -367,6 +399,14 @@
           <ShortCut>'⌘V'</ShortCut>
           <Description>Paste</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'⌘I'</ShortCut>
+          <Description>Properties</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -486,7 +526,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⇧⌘O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -494,7 +534,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>161</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pay1stop'">
@@ -526,7 +566,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -542,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
