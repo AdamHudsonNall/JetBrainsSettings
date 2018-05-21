@@ -126,7 +126,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦'</ShortCut>
           <Description>Delete...</Description>
-          <Count>61</Count>
+          <Count>62</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -510,7 +510,7 @@
           <IdeaActionID>SaveAll</IdeaActionID>
           <ShortCut>'⇧⌘S'</ShortCut>
           <Description>Save All</Description>
-          <Count>12</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Execution Point">
