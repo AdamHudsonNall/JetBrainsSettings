@@ -425,6 +425,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Revert...">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Revert...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -438,7 +446,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pay1stop'">
@@ -478,7 +486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pay1stop'">
@@ -526,7 +534,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>31</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
