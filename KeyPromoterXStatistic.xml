@@ -494,7 +494,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>81</Count>
+          <Count>82</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'pay1stop'">
