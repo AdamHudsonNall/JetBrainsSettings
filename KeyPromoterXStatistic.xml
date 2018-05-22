@@ -526,7 +526,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⇧⌘O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
