@@ -62,7 +62,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘3'</ShortCut>
           <Description>Database</Description>
-          <Count>12</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -70,7 +70,7 @@
           <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Database Tools...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌃B' or '⌃Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -526,7 +526,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⇧⌘O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -566,7 +566,7 @@
           <IdeaActionID>Synchronize</IdeaActionID>
           <ShortCut>'⌥⌘Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
