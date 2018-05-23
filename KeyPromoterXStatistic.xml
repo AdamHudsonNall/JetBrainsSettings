@@ -529,6 +529,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'samples\IdentitySample.Mvc'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌥F5'</ShortCut>
+          <Description>Run 'samples\IdentitySample.Mvc'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>
@@ -567,6 +575,14 @@
           <ShortCut>'⇧F5'</ShortCut>
           <Description>Stop 'pay1stop'</Description>
           <Count>48</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'samples\IdentitySample.Mvc'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⇧F5'</ShortCut>
+          <Description>Stop 'samples\IdentitySample.Mvc'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
