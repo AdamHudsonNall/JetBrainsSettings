@@ -217,6 +217,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'Microsoft.As…Compat.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'Microsoft.As…Compat.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'Microsoft.As…ity.UI.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'⌘↓' or 'F4'</ShortCut>
+          <Description>Edit 'Microsoft.As…ity.UI.csproj'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'Nootus.Fabri…curity.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
@@ -286,7 +302,7 @@
           <IdeaActionID>ActivateErrorsInSolutionToolWindow</IdeaActionID>
           <ShortCut>'⌃⌘2'</ShortCut>
           <Description>Errors In Solution</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -414,7 +430,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'⌥⏎'</ShortCut>
           <Description>Properties...</Description>
-          <Count>41</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Switch Scheme...">
