@@ -390,7 +390,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'⌘7' or '⇧⌘7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -526,7 +526,7 @@
           <IdeaActionID>RiderOpenSolution</IdeaActionID>
           <ShortCut>'⇧⌘O'</ShortCut>
           <Description>Solution or Project...</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -534,7 +534,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌃F2'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'pay1stop'">
@@ -582,7 +582,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
