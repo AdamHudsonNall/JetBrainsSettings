@@ -109,6 +109,11 @@
       <path value="Version Control Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="RiderNuGetVerifyPackageSpecsAction" is_action="true" action_type="-1" position="2">
+      <path value="root" />
+      <path value="Solution Explorer Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ActiveRuntimeGroup" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -121,6 +126,11 @@
       <path value="Editor Popup Menu Actions (2)" />
       <path value="VCS/LVCS Actions" />
       <path value="Version Control Group" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderNuGetManagePackagesForProjectAction" is_action="true" action_type="-1" position="1">
+      <path value="root" />
+      <path value="Solution Explorer Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="0">
@@ -160,7 +170,7 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Move" is_action="true" action_type="1" position="1">
+    <group value="RenameElement" is_action="true" action_type="1" position="1">
       <path value="root" />
       <path value="Solution Explorer Popup" />
       <option name="myInitialPosition" value="-1" />
@@ -179,6 +189,11 @@
       <path value="RunContextGroup" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="Move" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Solution Explorer Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="CreateRunConfiguration" is_action="true" action_type="1" position="3">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -186,6 +201,25 @@
       <path value="Compile/Run Actions" />
       <path value="EditorPopupMenu.Run.Rider" />
       <path value="RunContextGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CreateRunConfiguration" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (2)" />
+      <path value="Compile/Run Actions" />
+      <path value="EditorPopupMenu.Run.Rider" />
+      <path value="RunContextGroup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderNuGetManagePackagesForProjectAction" is_action="true" action_type="1" position="5">
+      <path value="root" />
+      <path value="Solution Explorer Popup" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="RiderNuGetVerifyPackageSpecsAction" is_action="true" action_type="1" position="6">
+      <path value="root" />
+      <path value="Solution Explorer Popup" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="$SearchWeb" is_action="true" action_type="1" position="12">
