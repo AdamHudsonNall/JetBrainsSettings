@@ -22,6 +22,15 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://adamhudsonnall.visualstudio.com/DarkTower/_git/DarkTower.Docker" />
+          <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
+          <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;f133cfb6-4e89-4a1f-972f-b91246901572&quot;,&quot;name&quot;:&quot;adamhudsonnall&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projectCollections/f133cfb6-4e89-4a1f-972f-b91246901572&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951642,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;8b73628b-7361-4e13-8e95-c55dc46c1b69&quot;,&quot;name&quot;:&quot;DarkTower.Docker&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/DarkTower/_git/DarkTower.Docker&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/8b73628b-7361-4e13-8e95-c55dc46c1b69&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951642,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://adamhudsonnall.visualstudio.com/DarkTower/_git/Darktower.Core" />
           <option name="serverUri" value="https://adamhudsonnall.visualstudio.com" />
           <option name="userId" value="db152a41-4c88-4490-b68a-92272648e88b" />
@@ -96,7 +105,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//adamhudsonnall.visualstudio.com/darktower/_git/arcwise.mvt" />
+          <option name="value" value="//adamhudsonnall.visualstudio.com/darktower/_git/darktower.docker" />
         </PropertyState>
       </array>
     </option>
