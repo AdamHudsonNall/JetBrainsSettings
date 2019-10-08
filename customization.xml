@@ -60,6 +60,12 @@
       <path value="Editor Tab Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="NewFromTemplate" is_group="true" action_type="-1" position="15">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ChangeSplitOrientation" is_action="true" action_type="-1" position="13">
       <path value="root" />
       <path value="Editor Tab Popup Menu" />
@@ -148,38 +154,6 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="Git.RepositoryContextMenu" is_group="true" action_type="-1" position="2">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group seperator="true" action_type="-1" position="1">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="OpenFile" is_action="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Main Toolbar" />
@@ -204,14 +178,6 @@
       <path value="Debug Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group seperator="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Editor Popup Menu" />
@@ -223,14 +189,6 @@
       <path value="Editor Popup Menu" />
       <path value="Editor Popup Menu Actions (2)" />
       <path value="Debug Actions" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="GitFileActions" is_group="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Editor Popup Menu" />
-      <path value="Editor Popup Menu Actions (2)" />
-      <path value="VCS/LVCS Actions" />
-      <path value="Version Control Group" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="FindUsages" is_action="true" action_type="1" position="0">
@@ -261,6 +219,12 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="NewFromTemplate" is_action="true" action_type="1" position="15">
+      <path value="root" />
+      <path value="Favorites View Popup Menu" />
+      <path value="New" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="NewFromTemplate" is_action="true" action_type="1" position="17">
       <path value="root" />
       <path value="Favorites View Popup Menu" />
       <path value="New" />
