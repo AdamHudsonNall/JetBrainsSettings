@@ -139,10 +139,6 @@
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$/Documents/vmBox Share/source/tfs-ws" />
         </PropertyState>
-        <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//adamhudsonnall.visualstudio.com/arcwise.apl.majesco/_git/arcwise.apl.majesco" />
-        </PropertyState>
       </array>
     </option>
   </component>
