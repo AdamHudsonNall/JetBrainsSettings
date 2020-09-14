@@ -16,5 +16,6 @@
     <mask>*.less</mask>
     <mask>*proj</mask>
     <mask>*.cs</mask>
+    <mask>*.cs,*.csproj</mask>
   </component>
 </application>
