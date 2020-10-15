@@ -4,7 +4,7 @@
     <property name="created">2019-10-08T09:40:08</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.2.3.0.0</property>
-    <property name="modified">2019-10-08T09:45:24</property>
+    <property name="modified">2020-10-15T16:25:19</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -49,8 +49,8 @@
     <option name="GUTTER_BACKGROUND" value="212121" />
     <option name="INDENT_GUIDE" value="424242" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="424242" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
+    <option name="LINE_NUMBERS_COLOR" value="930d00" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ff0e00" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
