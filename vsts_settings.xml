@@ -144,6 +144,15 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951664,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;3d807497-d674-481a-8026-49ecb14243de&quot;,&quot;name&quot;:&quot;DarkTower.Security&quot;,&quot;remoteUrl&quot;:&quot;https://adamhudsonnall.visualstudio.com/DarkTower/_git/DarkTower.Security&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/git/repositories/3d807497-d674-481a-8026-49ecb14243de&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;,&quot;name&quot;:&quot;DarkTower&quot;,&quot;revision&quot;:377951664,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://adamhudsonnall.visualstudio.com/_apis/projects/3f86de5c-1c38-4f52-a00e-8e9ddefe00fd&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://ampubliclife.visualstudio.com/PAS/_git/Apl.Pas.ClaimsCodeLoad" />
+          <option name="serverUri" value="https://ampubliclife.visualstudio.com" />
+          <option name="userId" value="6eb62455-5f60-6c84-8fee-ced2964bd80a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;b9aaa9da-4a06-4054-8f0d-5a54b9e5a3db&quot;,&quot;name&quot;:&quot;ampubliclife&quot;,&quot;url&quot;:&quot;https://ampubliclife.visualstudio.com/_apis/projectCollections/b9aaa9da-4a06-4054-8f0d-5a54b9e5a3db&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0de6a792-1177-4664-aed1-7c2e1cc25b28&quot;,&quot;name&quot;:&quot;PAS&quot;,&quot;revision&quot;:193,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ampubliclife.visualstudio.com/_apis/projects/0de6a792-1177-4664-aed1-7c2e1cc25b28&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ddd541e4-679b-490b-98b7-83f1823ad822&quot;,&quot;name&quot;:&quot;Apl.Pas.ClaimsCodeLoad&quot;,&quot;remoteUrl&quot;:&quot;https://ampubliclife.visualstudio.com/PAS/_git/Apl.Pas.ClaimsCodeLoad&quot;,&quot;url&quot;:&quot;https://ampubliclife.visualstudio.com/_apis/git/repositories/ddd541e4-679b-490b-98b7-83f1823ad822&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;0de6a792-1177-4664-aed1-7c2e1cc25b28&quot;,&quot;name&quot;:&quot;PAS&quot;,&quot;revision&quot;:193,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://ampubliclife.visualstudio.com/_apis/projects/0de6a792-1177-4664-aed1-7c2e1cc25b28&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -158,7 +167,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//ampubliclife.visualstudio.com/apl tech transformation/_git/apl.osc" />
+          <option name="value" value="//ampubliclife.visualstudio.com/pas/_git/apl.pas.claimscodeload" />
         </PropertyState>
       </array>
     </option>
